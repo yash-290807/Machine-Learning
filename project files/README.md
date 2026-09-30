@@ -6,7 +6,7 @@
 
 **An AI-powered computer vision framework for automated motorcycle traffic violation detection**
 
-</p>
+</p> 
 
 ---
 
