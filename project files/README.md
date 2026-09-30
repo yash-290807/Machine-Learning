@@ -76,8 +76,6 @@ The extracted information is organized into structured violation records and sto
 - [Future Scope](#-future-scope)
 - [Project Outcomes](#-project-outcomes)
 - [Conclusion](#-conclusion)
-- [Team](#-team)
-- [Acknowledgement](#-acknowledgement)
 
 ---
 
