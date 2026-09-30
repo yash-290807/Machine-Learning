@@ -1,0 +1,91 @@
+{
+    "image": "d3_train_001369.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.87451171875,
+            "box": [
+                43,
+                17,
+                95,
+                141
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.89404296875,
+            "box": [
+                115,
+                49,
+                154,
+                131
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.9423828125,
+            "box": [
+                245,
+                63,
+                305,
+                244
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.884765625,
+            "box": [
+                376,
+                81,
+                424,
+                167
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.77685546875,
+            "box": [
+                523,
+                117,
+                561,
+                192
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.76025390625,
+            "box": [
+                569,
+                95,
+                593,
+                158
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.87255859375,
+            "box": [
+                441,
+                129,
+                461,
+                175
+            ]
+        }
+    ]
+}

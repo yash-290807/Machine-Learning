@@ -1,0 +1,127 @@
+{
+    "image": "d1_train_000510.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.79638671875,
+            "box": [
+                351,
+                316,
+                365,
+                339
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7890625,
+            "box": [
+                406,
+                304,
+                419,
+                324
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.83740234375,
+            "box": [
+                549,
+                315,
+                556,
+                333
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7587890625,
+            "box": [
+                486,
+                316,
+                496,
+                340
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.765625,
+            "box": [
+                528,
+                304,
+                538,
+                318
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7890625,
+            "box": [
+                437,
+                326,
+                445,
+                346
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7900390625,
+            "box": [
+                438,
+                302,
+                448,
+                319
+            ]
+        },
+        {
+            "object_id": 8,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.81787109375,
+            "box": [
+                355,
+                349,
+                367,
+                370
+            ]
+        },
+        {
+            "object_id": 9,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.755859375,
+            "box": [
+                368,
+                358,
+                379,
+                386
+            ]
+        },
+        {
+            "object_id": 10,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.787109375,
+            "box": [
+                355,
+                231,
+                360,
+                243
+            ]
+        }
+    ]
+}

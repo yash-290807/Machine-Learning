@@ -1,0 +1,91 @@
+{
+    "image": "d3_train_003076.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.87451171875,
+            "box": [
+                139,
+                30,
+                240,
+                172
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.91259765625,
+            "box": [
+                21,
+                103,
+                73,
+                193
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.84814453125,
+            "box": [
+                373,
+                27,
+                443,
+                139
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.89453125,
+            "box": [
+                228,
+                30,
+                301,
+                147
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8115234375,
+            "box": [
+                591,
+                64,
+                632,
+                132
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7236328125,
+            "box": [
+                529,
+                70,
+                565,
+                140
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.89306640625,
+            "box": [
+                67,
+                95,
+                114,
+                181
+            ]
+        }
+    ]
+}

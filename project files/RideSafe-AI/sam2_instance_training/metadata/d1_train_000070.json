@@ -1,0 +1,91 @@
+{
+    "image": "d1_train_000070.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.841796875,
+            "box": [
+                496,
+                329,
+                509,
+                354
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8408203125,
+            "box": [
+                479,
+                341,
+                491,
+                365
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.875,
+            "box": [
+                390,
+                364,
+                400,
+                388
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.82958984375,
+            "box": [
+                232,
+                316,
+                243,
+                336
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8203125,
+            "box": [
+                108,
+                313,
+                118,
+                335
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.80517578125,
+            "box": [
+                221,
+                317,
+                231,
+                334
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.798828125,
+            "box": [
+                351,
+                323,
+                359,
+                339
+            ]
+        }
+    ]
+}

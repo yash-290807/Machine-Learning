@@ -1,0 +1,8 @@
+{
+  "sequence_count": 12,
+  "frames_per_sequence": 8,
+  "total_frames": 96,
+  "source_train_images": 4968,
+  "num_frames_for_sanity_training": 2,
+  "max_num_objects_for_sanity_training": 3
+}

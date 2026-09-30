@@ -1,0 +1,163 @@
+{
+    "image": "d2_train_001352.jpg",
+    "width": 520,
+    "height": 347,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.87890625,
+            "box": [
+                214,
+                58,
+                257,
+                113
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.896484375,
+            "box": [
+                402,
+                56,
+                441,
+                103
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.876953125,
+            "box": [
+                126,
+                76,
+                164,
+                118
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.74560546875,
+            "box": [
+                53,
+                69,
+                80,
+                100
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.931640625,
+            "box": [
+                15,
+                63,
+                41,
+                100
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.79541015625,
+            "box": [
+                305,
+                66,
+                327,
+                98
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.73046875,
+            "box": [
+                369,
+                57,
+                390,
+                92
+            ]
+        },
+        {
+            "object_id": 8,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.72314453125,
+            "box": [
+                158,
+                63,
+                181,
+                97
+            ]
+        },
+        {
+            "object_id": 9,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.68603515625,
+            "box": [
+                108,
+                73,
+                133,
+                110
+            ]
+        },
+        {
+            "object_id": 10,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.81201171875,
+            "box": [
+                252,
+                74,
+                273,
+                105
+            ]
+        },
+        {
+            "object_id": 11,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.552734375,
+            "box": [
+                326,
+                69,
+                341,
+                92
+            ]
+        },
+        {
+            "object_id": 12,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.83203125,
+            "box": [
+                337,
+                56,
+                357,
+                75
+            ]
+        },
+        {
+            "object_id": 13,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.55029296875,
+            "box": [
+                438,
+                41,
+                462,
+                70
+            ]
+        }
+    ]
+}

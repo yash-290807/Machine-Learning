@@ -1,0 +1,91 @@
+{
+    "image": "d1_train_000301.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8125,
+            "box": [
+                245,
+                320,
+                255,
+                337
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.751953125,
+            "box": [
+                6,
+                233,
+                17,
+                254
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.78515625,
+            "box": [
+                519,
+                264,
+                536,
+                286
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7724609375,
+            "box": [
+                381,
+                353,
+                389,
+                363
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.77490234375,
+            "box": [
+                373,
+                351,
+                385,
+                368
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7431640625,
+            "box": [
+                344,
+                363,
+                351,
+                373
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7763671875,
+            "box": [
+                347,
+                370,
+                353,
+                382
+            ]
+        }
+    ]
+}

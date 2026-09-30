@@ -1,0 +1,91 @@
+{
+    "image": "d3_train_001891.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.83447265625,
+            "box": [
+                428,
+                138,
+                481,
+                224
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.78662109375,
+            "box": [
+                264,
+                123,
+                306,
+                190
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.76953125,
+            "box": [
+                352,
+                105,
+                387,
+                172
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.83837890625,
+            "box": [
+                217,
+                108,
+                257,
+                181
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.912109375,
+            "box": [
+                50,
+                132,
+                101,
+                210
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7890625,
+            "box": [
+                97,
+                125,
+                143,
+                197
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.751953125,
+            "box": [
+                1,
+                104,
+                37,
+                159
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "image": "d1_train_000452.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.880859375,
+            "box": [
+                446,
+                495,
+                471,
+                536
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.83544921875,
+            "box": [
+                403,
+                348,
+                423,
+                372
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.75830078125,
+            "box": [
+                322,
+                259,
+                330,
+                274
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.79931640625,
+            "box": [
+                343,
+                252,
+                350,
+                268
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.79443359375,
+            "box": [
+                359,
+                283,
+                367,
+                307
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7314453125,
+            "box": [
+                368,
+                292,
+                377,
+                312
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.78662109375,
+            "box": [
+                22,
+                309,
+                30,
+                328
+            ]
+        }
+    ]
+}

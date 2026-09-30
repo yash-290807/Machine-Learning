@@ -1,0 +1,91 @@
+{
+    "image": "d1_train_000819.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.67919921875,
+            "box": [
+                136,
+                543,
+                184,
+                623
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.5830078125,
+            "box": [
+                264,
+                301,
+                287,
+                335
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.70556640625,
+            "box": [
+                246,
+                255,
+                272,
+                293
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.697265625,
+            "box": [
+                277,
+                260,
+                300,
+                288
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.638671875,
+            "box": [
+                338,
+                207,
+                350,
+                228
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.79052734375,
+            "box": [
+                388,
+                311,
+                403,
+                347
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.81640625,
+            "box": [
+                405,
+                310,
+                418,
+                345
+            ]
+        }
+    ]
+}

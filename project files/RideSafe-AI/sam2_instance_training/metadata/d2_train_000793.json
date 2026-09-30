@@ -1,0 +1,43 @@
+{
+    "image": "d2_train_000793.jpg",
+    "width": 400,
+    "height": 264,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.8359375,
+            "box": [
+                171,
+                91,
+                204,
+                125
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.73486328125,
+            "box": [
+                61,
+                84,
+                100,
+                125
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.90966796875,
+            "box": [
+                250,
+                87,
+                283,
+                123
+            ]
+        }
+    ]
+}

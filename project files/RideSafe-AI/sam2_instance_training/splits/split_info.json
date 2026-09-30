@@ -1,0 +1,9 @@
+{
+  "total_images": 5520,
+  "train_images": 4968,
+  "validation_images": 552,
+  "train_ratio": 0.9,
+  "random_seed": 42,
+  "train_list": "C:\\AI Projects\\HelmetViolationSystem\\sam2_instance_training\\splits\\train.txt",
+  "validation_list": "C:\\AI Projects\\HelmetViolationSystem\\sam2_instance_training\\splits\\val.txt"
+}

@@ -1,0 +1,91 @@
+{
+    "image": "d1_train_000648.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.791015625,
+            "box": [
+                50,
+                288,
+                58,
+                312
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.64892578125,
+            "box": [
+                58,
+                287,
+                63,
+                308
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8798828125,
+            "box": [
+                113,
+                227,
+                129,
+                257
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.873046875,
+            "box": [
+                247,
+                169,
+                269,
+                207
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.73974609375,
+            "box": [
+                323,
+                319,
+                331,
+                344
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.77685546875,
+            "box": [
+                465,
+                165,
+                490,
+                207
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.85986328125,
+            "box": [
+                543,
+                259,
+                558,
+                287
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "image": "d3_train_002016.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.69384765625,
+            "box": [
+                418,
+                161,
+                456,
+                230
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.83544921875,
+            "box": [
+                391,
+                140,
+                429,
+                213
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.85791015625,
+            "box": [
+                122,
+                98,
+                175,
+                174
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.7763671875,
+            "box": [
+                65,
+                33,
+                127,
+                111
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.82666015625,
+            "box": [
+                571,
+                147,
+                594,
+                190
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.87158203125,
+            "box": [
+                504,
+                130,
+                529,
+                171
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.77587890625,
+            "box": [
+                378,
+                102,
+                404,
+                135
+            ]
+        }
+    ]
+}

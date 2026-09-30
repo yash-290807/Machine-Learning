@@ -1,0 +1,67 @@
+{
+    "image": "d1_train_000784.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.759765625,
+            "box": [
+                477,
+                132,
+                531,
+                181
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7578125,
+            "box": [
+                238,
+                120,
+                262,
+                182
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.76123046875,
+            "box": [
+                201,
+                123,
+                235,
+                175
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.6435546875,
+            "box": [
+                397,
+                295,
+                428,
+                355
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8134765625,
+            "box": [
+                290,
+                386,
+                300,
+                411
+            ]
+        }
+    ]
+}

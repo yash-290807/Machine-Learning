@@ -1,0 +1,91 @@
+{
+    "image": "d1_train_000649.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8037109375,
+            "box": [
+                582,
+                328,
+                590,
+                352
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7373046875,
+            "box": [
+                575,
+                331,
+                582,
+                352
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8955078125,
+            "box": [
+                510,
+                382,
+                526,
+                413
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8720703125,
+            "box": [
+                370,
+                432,
+                392,
+                470
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8056640625,
+            "box": [
+                308,
+                295,
+                316,
+                320
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.81689453125,
+            "box": [
+                150,
+                433,
+                175,
+                475
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.876953125,
+            "box": [
+                82,
+                352,
+                97,
+                380
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "images": 100,
+  "videos": 100,
+  "total_objects": 318,
+  "max_objects_per_image": 12,
+  "frame_name": "00000.jpg",
+  "mask_name": "00000.png"
+}

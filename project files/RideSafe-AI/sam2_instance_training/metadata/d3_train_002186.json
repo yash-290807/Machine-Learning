@@ -1,0 +1,91 @@
+{
+    "image": "d3_train_002186.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.62060546875,
+            "box": [
+                183,
+                197,
+                245,
+                273
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.529296875,
+            "box": [
+                285,
+                203,
+                324,
+                262
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.6826171875,
+            "box": [
+                370,
+                205,
+                425,
+                282
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.53955078125,
+            "box": [
+                436,
+                193,
+                479,
+                262
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.81005859375,
+            "box": [
+                514,
+                242,
+                554,
+                309
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.85888671875,
+            "box": [
+                599,
+                202,
+                637,
+                283
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.75,
+            "box": [
+                131,
+                244,
+                168,
+                291
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "total_objects": 290,
+  "helmet": {
+    "objects": 109,
+    "mean_iou": 0.8306834957647393,
+    "mean_dice": 0.9055709915181787,
+    "mean_sam_score": 0.8596931422522308
+  },
+  "without-helmet": {
+    "objects": 181,
+    "mean_iou": 0.8265585796324155,
+    "mean_dice": 0.9028820716445917,
+    "mean_sam_score": 0.863585099989538
+  }
+}

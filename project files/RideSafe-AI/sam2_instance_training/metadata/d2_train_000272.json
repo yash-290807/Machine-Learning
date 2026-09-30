@@ -1,0 +1,91 @@
+{
+    "image": "d2_train_000272.jpg",
+    "width": 500,
+    "height": 375,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.5390625,
+            "box": [
+                214,
+                69,
+                240,
+                100
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.8896484375,
+            "box": [
+                174,
+                106,
+                197,
+                146
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.91455078125,
+            "box": [
+                138,
+                108,
+                164,
+                140
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.6640625,
+            "box": [
+                398,
+                77,
+                412,
+                92
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.437255859375,
+            "box": [
+                47,
+                81,
+                68,
+                98
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.74365234375,
+            "box": [
+                139,
+                74,
+                153,
+                85
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.7744140625,
+            "box": [
+                163,
+                77,
+                172,
+                88
+            ]
+        }
+    ]
+}

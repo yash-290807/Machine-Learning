@@ -1,0 +1,91 @@
+{
+    "image": "d2_train_000148.jpg",
+    "width": 400,
+    "height": 268,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.859375,
+            "box": [
+                288,
+                18,
+                330,
+                66
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.8583984375,
+            "box": [
+                240,
+                30,
+                269,
+                75
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7197265625,
+            "box": [
+                126,
+                38,
+                149,
+                67
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.81640625,
+            "box": [
+                200,
+                32,
+                228,
+                66
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.85595703125,
+            "box": [
+                80,
+                43,
+                98,
+                66
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.81103515625,
+            "box": [
+                43,
+                46,
+                63,
+                71
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.69775390625,
+            "box": [
+                8,
+                53,
+                26,
+                77
+            ]
+        }
+    ]
+}

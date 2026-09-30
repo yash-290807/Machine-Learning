@@ -1,0 +1,91 @@
+{
+    "image": "d3_train_000616.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.7177734375,
+            "box": [
+                457,
+                179,
+                499,
+                299
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.81005859375,
+            "box": [
+                400,
+                190,
+                443,
+                289
+            ]
+        },
+        {
+            "object_id": 3,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.9140625,
+            "box": [
+                292,
+                246,
+                360,
+                380
+            ]
+        },
+        {
+            "object_id": 4,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.66162109375,
+            "box": [
+                162,
+                182,
+                218,
+                291
+            ]
+        },
+        {
+            "object_id": 5,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.79150390625,
+            "box": [
+                102,
+                173,
+                153,
+                262
+            ]
+        },
+        {
+            "object_id": 6,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.88720703125,
+            "box": [
+                19,
+                196,
+                76,
+                315
+            ]
+        },
+        {
+            "object_id": 7,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.91015625,
+            "box": [
+                0,
+                297,
+                61,
+                464
+            ]
+        }
+    ]
+}

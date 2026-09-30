@@ -1,0 +1,31 @@
+{
+    "image": "d3_train_002675.jpg",
+    "width": 640,
+    "height": 640,
+    "objects": [
+        {
+            "object_id": 1,
+            "class_id": 1,
+            "class_name": "no_helmet",
+            "sam2_score": 0.74658203125,
+            "box": [
+                284,
+                139,
+                344,
+                210
+            ]
+        },
+        {
+            "object_id": 2,
+            "class_id": 0,
+            "class_name": "helmet",
+            "sam2_score": 0.9228515625,
+            "box": [
+                540,
+                178,
+                599,
+                244
+            ]
+        }
+    ]
+}
